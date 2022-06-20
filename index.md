@@ -1,7 +1,7 @@
 # Welcome to HYY Technology Co.,Ltd. GitHub Pages
 
 ![](banner.jpeg)
-## You can get product documents at this page. Or visit [HYY Technology Co.,Ltd.](www.we-signage.com) website get more informations.
+## You can get product documents at this page. Or visit [HYY Technology Co.,Ltd.](www.we-signage.com) website get more information.
 
 ### Tablet Products
 - [RK3566 14inch Tablet](https://github.com/pengyixing/RK3566-14inch-Tablet)
@@ -13,6 +13,10 @@
 - [RK3588 Mainboard (SBC)](https://github.com/pengyixing/RK3588-Development-Board)
 
 - [YF-023D RK3566 SBC/mainboard/motherboard](https://github.com/pengyixing/RK3566-14inch-Tablet/blob/main/YF-023D_RK3566_SBC.md)
+
+    - Android 11
+
+    - Debian 10(OpenVPN support, Kernel # CONFIG_TUN is set)
 
 ### Industrial Computer Products
 
