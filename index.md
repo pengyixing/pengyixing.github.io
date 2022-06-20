@@ -8,6 +8,7 @@
 
 ### Mini-PC Products
 - [RK3588 mini-pc](https://github.com/pengyixing/RK3588-Development-Board/blob/main/mini-pc.md)
+
 ### SBC
 - [RK3588 Mainboard (SBC)](https://github.com/pengyixing/RK3588-Development-Board)
 
