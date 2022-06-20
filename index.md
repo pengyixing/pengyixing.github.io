@@ -17,8 +17,8 @@
 ### Industrial Computer Products
 
 # Contacts
-- Website: www.we-signage.com
-- https://we-signage.en.made-in-china.com/
+- Website: [www.we-signage.com](www.we-signage.com)
+- [https://we-signage.en.made-in-china.com](https://we-signage.en.made-in-china.com)
 - E-mail: dennis@we-signage.com
 - MP/Whatsapp/Wechat: + 86 13349909990
 - Skype: solled686
